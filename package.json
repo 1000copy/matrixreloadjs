@@ -1,0 +1,12 @@
+{
+  "name": "matrixreloadjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./autoload"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
